@@ -1,0 +1,96 @@
+{ 
+  "medicine": [ 
+    { 
+      "id": 1, 
+      "name": "Apap", 
+      "picture": "https://static2.i-apteka.pl/pol_pl_APAP-0-5-x-6-tabletek-353_1.jpg" 
+ 
+    }, 
+    { 
+      "id": 2, 
+      "name": "Ibuprom", 
+      "picture": "https://static3.i-apteka.pl/pol_pl_IBUPROM-x-10-tabletek-411_1.jpg" 
+ 
+    }, 
+    { 
+      "id": 3, 
+      "name": "Etopiryna", 
+      "picture": "https://www.e-zikoapteka.pl/etopiryna-10-tabletek.2.1649242977.jpg" 
+      
+    }, 
+    { 
+      "id": 4, 
+      "name": "Polopiryna S", 
+      "picture": "https://static3.i-apteka.pl/pol_pl_Polopiryna-S-300mg-x-30-tabletek-60939_1.jpg" 
+      
+    },
+    { 
+      "id": 5, 
+      "name": "Pyralgina", 
+      "picture": "https://image.ceneostatic.pl/data/products/57090259/i-pyralgina-500mg-20-tabl.jpg" 
+      
+    },
+    { 
+      "id": 6, 
+      "name": "Ketonal active", 
+      "picture": "https://static3.i-apteka.pl/pol_pl_Ketonal-Active-x-10-kapsulek-57527_1.jpg" 
+      
+    }
+  ], 
+  "description": [ 
+    { 
+      "id": 1, 
+      "medicine_id": 1, 
+      "content": "Apap to lek w postaci białych tabletek powlekanych. Substancją czynną leku Apap jest paracetamol o działaniu przeciwbólowym i przeciwgorączkowym.Lek może być stosowany przez dzieci w wieku powyżej 12 lat i osoby dorosłe.", 
+
+      "dosage": "Młodzież w wieku powyżej 12 lat: 1 tabletka powlekana, czyli 500 mg paracetamolu, w razie konieczności 3 do 4 razy na dobę. Dorośli: 1-2 tabletki powlekane (500-1000 mg paracetmolu), w razie konieczności 3-4 razy na dobę, maksymalnie 8 tabletek powlekanych w ciągu doby, czyli 4 g paracetamolu na dobę.",
+      "contraindications":"Kiedy nie stosować leku Apap: jeśli wcześniej stwierdzono uczulenie na paracetamol lub którykolwiek składnik leku, jeśli występuje ciężka niewydolność wątroby lub nerek.",
+      "warnings":"Apap zawiera paracetamol, więc aby uniknąć ryzyka przedawkowania, należy sprawdzić czy w innych produktach przyjmowanych przez pacjenta nie występuje w składzie ta substancja i czy dobowa dawka leku nie przekracza 4 g (4 000 mg) na dobę.W czasie przyjmowania leku nie wolno pić alkoholu ze względu na ryzyko toksycznego uszkodzenia wątroby."
+    }, 
+    { 
+      "id": 2, 
+      "medicine_id": 2, 
+      "content": "Ibuprom to lek dla dorosłych i dzieci powyżej 12. roku życia o działaniu przeciwbólowym, przeciwzapalnym i przeciwgorączkowym. Lek jest wskazany do stosowania w przypadku ostrego bólu o nasileniu łagodnym lub umiarkowanym, na przykład pooperacyjnym, mięśniowym, kostnym, migrenowym oraz menstruacyjnym. Ibuprom zawiera substancję czynną ibuprofen.", 
+
+      "dosage": "Dorośli i dzieci powyżej 12. lat: w doraźnym leczeniu: 1 tabletka doustnie co 4 - 6 godzin. Nie należy stosować dawki większej niż 3 tabletki na dobę.",
+      "contraindications":"Kiedy nie stosować leku Ibuprom: jeśli pacjent ma uczulenie na ibuprofen lub którykolwiek z pozostałych składników tego leku oraz na inne niesteroidowe leki przeciwzapalne (NLPZ), jeśli po przyjęciu kwasu acetylosalicylowego lub innych niesteroidowych leków przeciwzapalnych występowały kiedykolwiek w przeszłości objawy alergii w postaci kataru, pokrzywki lub astmy oskrzelowej.",
+      "warnings":"Jeżeli stwierdzono wcześniej u pacjenta nietolerancję niektórych cukrów, pacjent powinien skontaktować się z lekarzem przed przyjęciem leku. Nie przechowywać w temperaturze powyżej 30°C."
+    }, 
+    { 
+      "id": 3, 
+      "medicine_id": 3, 
+      "content": "Etopiryna jest lekiem stosowanym w leczeniu bólów głowy oraz bólów o umiarkowanym nasileniu, zwłaszcza pochodzenia zapalnego. Substancjami czynnymi leku są kwas acetylosalicylowy, etenzamid i kofeina. Każda tabletka zawiera 300 mg kwasu acetylosalicylowego 100 mg etenzamidu i 50 mg kofeiny.", 
+
+      "dosage": "Lek należy przyjmować doustnie, najlepiej po posiłku, z dużą ilością wody. Należy stosować możliwie najmniejsze skuteczne dawki przez najkrótszy okres konieczny do łagodzenia objawów, aby zmniejszyć ryzyko wystąpienia działań niepożądanych. Leku nie należy stosować dłużej niż kilka dni. Stosowanie u dorosłych i dzieci powyżej 16 lat: od 1 do 2 tabletek jednorazowo lub w razie potrzeby tę samą dawkę co 8 godzin. Nie stosować więcej niż 6 tabletek na dobę.",
+      "contraindications":"Kiedy nie stosować leku Etopiryna: jeśli wystepuje uczulenie na kwas acetylosalicylowy lub którykolwiek ze składników leku, jeśli u pacjenta występuje astma oskrzelowa, przewlekłe schorzenia układu oddechowego, gorączka.",
+      "warnings":"Produkt należy odstawić na 5 do 7 dni przed planowanym zabiegiem chirurgicznym, ze względu na ryzyko wydłużonego czasu krwawienia zarówno w czasie jak i po zabiegu. Produkt zawiera laktozę jednowodną."
+    }, 
+    { 
+      "id": 4, 
+      "medicine_id": 4, 
+      "content": "Polopiryna S to lek przeznaczony do stosowania w dolegliwościach bólowych różnego pochodzenia oraz przy objawach przeziębienia i grypy. Zawarty w tabletkach kwas acetylosalicylowy może być również stosowany przy reumatoidalnym zapaleniu stawów (z przypisu lekarza) oraz w przypadku zawału mięśnia sercowego, jak i w powtórnej profilaktyce. Lek Polopiryna S może być stosowany przez osoby dorosłe oraz młodzież po 16 roku życia.", 
+
+      "dosage": "Osoby dorosłe: 1-2 tabletki co 4 godziny. Nie zaleca się przyjmować więcej niż 3 g leku na dobę. Młodzież w wieku powyżej 16 lat: 2-3 tabletki na dobę.",
+      "contraindications":"Kiedy nie stosować leku Polopiryna S: jeśli pacjent ma uczulenie na kwas acetylosalicylowy lub którykolwiek z pozostałych składników leku, jeśli pacjent ma uczulenie na inne niesteroidowe leki przeciwzapalne, przebiegające z objawami takimi jak: skurcz oskrzeli, zapalenie błony śluzowej nosa, wstrząs.",
+      "warnings":"Przechowywać w miejscu niewidocznym i niedostępnym dla dzieci. Przechowywać w temperaturze poniżej 25°C."
+    },
+    { 
+      "id": 5, 
+      "medicine_id": 5, 
+      "content": "Tabletki Pyralgina to lek do stosowania w bólu o dużym nasileniu oraz gorączce. Pyralgina zawiera metamizol sodowy, który wykazuje działanie przeciwbólowe, przeciwgorączkowe oraz rozkurczowe na mięśnie gładkie.", 
+
+      "dosage": "Dawkowanie Pyralginy u osób dorosłych i młodzieży powyżej 15 lat (przy masie ciała minimum 53 kg) przy sporadycznych bólach i gorączce to 1 tabletka (500 mg) do 2 tabletek (1000 mg). Maksymalna dawka jednorazowa wynosi 2 tabletki (1000 mg metamizolu), natomiast maksymalna dawka dobowa to 6 tabletek (3000 mg metamizolu). Nie stosować leku dłużej niż 3-5 dni bez konsultacji z lekarzem.",
+      "contraindications":"Nie stosować leku Pyralgina: jeśli pacjent ma uczulenie na metamizol, inne pochodne pirazolonu i pirazolidyny, jeśli u pacjenta występuje ostra niewydolność nerek lub wątroby, ostra porfiria wątrobowa.",
+      "warnings":"Lek należy odstawić w przypadku wystąpienia: agranulocytozy, małopłytkowości, ciężkiej choroby alergicznej. Lek Pyralgina zawiera sód."
+    },
+    { 
+      "id": 6, 
+      "medicine_id": 6, 
+      "content": "Ketonal Active zawiera substancję czynną ketoprofen, lek o działaniu przeciwzapalnym, przeciwgorączkowym i przeciwbólowym (należy do grupy niesteroidowych leków przeciwzapalnych - NLPZ).", 
+
+      "dosage": "Dorośli i młodzież w wieku powyżej 15 lat - 1 kapsułka do 3 razy na dobę (co 8 godzin).Kapsułki należy przyjmować podczas posiłków, popijając co najmniej połową szklanki wody lub mleka.",
+      "contraindications":"Kiedy nie przyjmować leku Ketonal Active: jeśli pacjent ma uczulenie na ketoprofen lub którykolwiek z pozostałych składników tego leku, jeśli u pacjenta występuje ciężka niewydolność serca czy ciężka niewydolność nerek.",
+      "warnings":"Ketonal Active zawiera laktozę. Lek należy przechowywać w miejscu niewidocznym i niedostępnym dla dzieci. Przechowywać w temperaturze poniżej 25°C."
+    }
+  ] 
+} 
